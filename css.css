@@ -1,0 +1,23 @@
+body {
+  background: #5ED8D8;
+}
+
+#thumb {
+  font-size: 25px;
+}
+
+body, html {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  font-family: 'Handlee', cursive;
+
+}
+
+#thumb:hover {
+  color:green;
+}
